@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "jckr0814",
+    "email": "jckr030814@gmail.com"
+  },
+  "domain": "KLCF",
+  "records": {
+    "CNAME": ["jckr0814.github.io"]
+  },
+  "proxied": true
+}
